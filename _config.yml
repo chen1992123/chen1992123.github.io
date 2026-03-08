@@ -14,9 +14,9 @@ roles:
   - key: faculty
     name: 教师Rian
   - key: grad
-    name: 研究生 Graduate Students
+    name: 研究生123 Graduate Students
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 烧鹅比饭
   - key: collab
     name: 合作者 Collaborators
 
@@ -38,5 +38,5 @@ navigation:
     link: /
   - title: 科研 Research
     link: /research.html
-  - title: 论文 Publications
+  - title: 实习经历
     link: /publications.html
